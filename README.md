@@ -34,6 +34,5 @@
 <p><a href="https://www.buymeacoffee.com/saqibdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqibdev" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saqib-ansari786&&show_icons=true&theme=dark" alt="saqib-ansari786" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-ansari786&show_icons=true&locale=en" alt="saqib-ansari786" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="saqib-ansari786" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-ansari786&" alt="saqib-ansari786" /></p>
