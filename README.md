@@ -1,4 +1,5 @@
 [![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://github.com/Saqib-Ansari786)
+
 <h1 align="center">Hi 👋, I'm Saqib Ali</h1>
 <h3 align="center">Innovative Full-Stack Developer | Passionate about React Native | Driven by Continuous Learning</h3>
 
@@ -21,10 +22,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/saqib-ali-dev786/](https://www.linkedin.com/in/saqib-ali-dev786/)
 
 - ⚡ Fun fact **Besides being a skilled developer, I have an insatiable love for both food and cricket. As a self-proclaimed foodie, I am always on the lookout for new and exciting culinary adventures. Exploring diverse cuisines and savoring unique flavors is a true delight for me. On the other hand, my passion for cricket fuels my competitive spirit and keeps me engaged in the thrilling world of sports. Combining my love for technology with my interests outside the realm of coding, I bring a well-rounded and enthusiastic approach to both my professional and personal endeavors.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
