@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib-ansari786&theme=juicyfresh" alt="saqib-ansari786" /></a> </p>
 
-- 🔭 I’m currently working on **Integrated Management System for Police Training Institute (Client based Project)**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **Best coding practices in projects**
 
