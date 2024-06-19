@@ -1,11 +1,11 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://github.com/Saqib-Ansari786)
+[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://github.com/saqib-dev-404)
 
 <h1 align="center">Hi 👋, I'm Saqib Ali</h1>
 <h3 align="center">Innovative Full-Stack Developer | Passionate about React Native | Driven by Continuous Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-ansari786&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-ansari786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-dev-404&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-dev-404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib-ansari786&theme=juicyfresh" alt="saqib-ansari786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib-dev-404&theme=juicyfresh" alt="saqib-dev-404" /></a> </p>
 
 - 🔭 I’m currently working on **MERN STACK**
 
@@ -37,8 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saqibdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqibdev" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-ansari786&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="saqib-ansari786" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-dev-404&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="saqib-dev-404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-ansari786&show_icons=true&theme=highcontrast&locale=en" alt="saqib-ansari786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-dev-404&show_icons=true&theme=highcontrast&locale=en" alt="saqib-dev-404" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-ansari786&theme=highcontrast" alt="saqib-ansari786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-dev-404&theme=highcontrast" alt="saqib-dev-404" /></p>
