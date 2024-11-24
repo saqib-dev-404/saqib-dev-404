@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://github.com/saqib-dev-404)
+[![MasterHead](https://github.com/saqib-dev-404/saqib-dev-404/blob/main/saqib-gtihub-banner.png)](https://github.com/saqib-dev-404)
 
 <h1 align="center">Hi 👋, I'm Saqib Ali</h1>
 <h3 align="center">Innovative Full-Stack Developer | Passionate about React Native | Driven by Continuous Learning</h3>
