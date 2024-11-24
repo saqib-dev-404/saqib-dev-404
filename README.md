@@ -1,27 +1,21 @@
 [![MasterHead](https://github.com/saqib-dev-404/saqib-dev-404/blob/main/saqib-gtihub-banner.png)](https://github.com/saqib-dev-404)
 
 <h1 align="center">Hi 👋, I'm Saqib Ali</h1>
-<h3 align="center">Innovative Full-Stack Developer | Passionate about React Native | Driven by Continuous Learning</h3>
+<h3 align="center">Full-Stack Developer | React, Node.js, Serverless, Next.js & React Native Expert | AWS Cloud Services</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib-dev-404&label=Profile%20views&color=0e75b6&style=flat" alt="saqib-dev-404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib-dev-404&theme=juicyfresh" alt="saqib-dev-404" /></a> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
-
-- 🌱 I’m currently learning **Best coding practices in projects**
 
 - 👨‍💻 All of my projects are available at [https://saqib-dev-404.vercel.app/](https://saqib-dev-404.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@saqibdev](https://medium.com/@saqibdev)
 
-- 💬 Ask me about **Mern Stack and React native**
-
-- 📫 How to reach me **saqib.ns111@gmail.com**
+- 📫 How to reach me **saqibdev404@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/saqib-ali-dev786/](https://www.linkedin.com/in/saqib-ali-dev786/)
 
-- ⚡ Fun fact **Besides being a skilled developer, I have an insatiable love for both food and cricket. As a self-proclaimed foodie, I am always on the lookout for new and exciting culinary adventures. Exploring diverse cuisines and savoring unique flavors is a true delight for me. On the other hand, my passion for cricket fuels my competitive spirit and keeps me engaged in the thrilling world of sports. Combining my love for technology with my interests outside the realm of coding, I bring a well-rounded and enthusiastic approach to both my professional and personal endeavors.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saqib-ali-dev786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib-ali-dev786" height="30" width="40" /></a>
@@ -36,8 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saqibdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqibdev" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqib-dev-404&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="saqib-dev-404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqib-dev-404&show_icons=true&theme=highcontrast&locale=en" alt="saqib-dev-404" /></p>
 
