@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqib-dev-404&theme=juicyfresh" alt="saqib-dev-404" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://saqib-dev-404.vercel.app/](https://saqib-dev-404.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://saqib-dev-404.tech/](https://saqib-dev-404.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@saqibdev](https://medium.com/@saqibdev)
 
