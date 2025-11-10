@@ -2,10 +2,6 @@
 
 # 👨‍💻 Saqib Ali | Full Stack Developer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Hello%2C%20I'm%20Muhammad%20Ahsan;Full%20Stack%20Developer;JavaScript%20Enthusiast;Cloud%20Engineer" alt="Typing SVG" />
-</div>
-
 ---
 
 <div align="center">
