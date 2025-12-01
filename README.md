@@ -8,7 +8,7 @@
   <h3>🚀 Passionate Full Stack Developer | Cloud Engineer | Open Source Contributor</h3>
 
 <p>
-    <strong>📍 Location:</strong> Lahore, Pakistan | 
+    <strong>📍 Location:</strong> Glasgow, Scotland | 
     <strong>💼 Current Role:</strong> Software Engineer at <strong>DEVWOLFZ</strong> | 
     <strong>⏰ Experience:</strong> 4+ Years
   </p>
